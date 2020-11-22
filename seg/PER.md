@@ -1,11 +1,7 @@
-## 进展
-1. BaseLine运行 OK
-2. 本地代码熟悉
-3. 建立新模型
-## 数据处理
-[1](https://blog.csdn.net/qq_39661689/article/details/99760848?)
-
-## 思路
-1. 不同切分方式扩充数据
-2. 集中于模型的修改形成一个个人版本
-3. 集中数据处理与模型调参，迭代。
+1. BaseLine运行
+2. DeepLabV3++
+> 思路
+1. 数据增强，经典模型搭建，集成学习
+2. 
+> 参考
+* [1](https://www.cnblogs.com/skyfsm/p/8330882.html)
