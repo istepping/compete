@@ -22,3 +22,8 @@ PyTorch: 更加灵活优雅,定义网络变得更加清晰
 
 Keras需要更少的代码, PyTorch更加清晰灵活运行代码
 ## Keras入门
+## 开源代码
+notebook可以直接复制修改后提交
+## 运行环境-Kaggle
+cpu一直使用,GPU每周免费42H
+[kaggle-api](https://github.com/Kaggle/kaggle-api)
